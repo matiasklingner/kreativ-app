@@ -1,0 +1,8 @@
+{
+  "name": "KreativApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "16430a0f"
+}
